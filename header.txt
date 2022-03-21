@@ -1,3 +1,6 @@
+
 changes from <master>
-Changes from <first> - new changes 
+Changes from <first>  
+Text from master- new changes
+
 
